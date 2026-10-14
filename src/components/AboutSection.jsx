@@ -4,7 +4,7 @@ import { INSTAGRAM_URL } from '../data/links'
 /* Parágrafos da apresentação — edite livremente em um só lugar */
 const PARAGRAPHS = [
   'Estou cursando Biomedicina e construindo minha trajetória na área da estética, onde encontro uma das coisas que mais amo: ajudar pessoas a se sentirem ainda mais confiantes com elas mesmas.',
-  'Atualmente atuo como auxiliar na área de estética e também trabalho com maquiagem, unindo técnica, cuidado e atenção aos detalhes em cada atendimento.',
+  'Atualmente atuo como estagiária na área de injetáveis e também trabalho com maquiagem, unindo técnica, cuidado e atenção aos detalhes em cada atendimento.',
   'Hoje faço parte da equipe do Nina Cabeleireiros | Salão de Beleza, onde tenho a oportunidade de desenvolver ainda mais meu trabalho e estar cada vez mais próxima de pessoas que valorizam beleza, cuidado e autoestima.',
   'Se você quiser acompanhar um pouco mais da minha rotina, dos meus trabalhos e dessa fase da minha vida, vai ser um prazer ter você por aqui.',
 ]
